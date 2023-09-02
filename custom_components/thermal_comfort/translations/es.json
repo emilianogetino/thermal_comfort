@@ -74,7 +74,8 @@
           "great_discomfort": "Muy incómodo, evitar esfuerzos",
           "dangerous_discomfort": "Incomodidad peligrosa",
           "heat_stroke": "Posible golpe de calor"
-        }
+        },
+        "name": "Percepción Humidex"
       },
       "relative_strain_perception": {
         "state": {

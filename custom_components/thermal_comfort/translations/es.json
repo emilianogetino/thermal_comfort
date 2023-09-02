@@ -50,7 +50,8 @@
           "unlikely": "Poco probable",
           "probable": "Probable",
           "high": "Alta probabilidad"
-        }
+        },
+        "name": "Riesgo de heladas"
       },
       "dew_point_perception": {
         "state": {
@@ -127,6 +128,9 @@
       },
       "absolute_humidity": {
         "name": "Humedad absoluta"
+      },
+      "frost_point": {
+        "name": "Punto de escarcha"
       }
     }
   }

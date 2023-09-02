@@ -63,7 +63,8 @@
           "quite_uncomfortable": "Muy húmedo, bastante incómodo",
           "extremely_uncomfortable": "Extremadamente incómodo, agobiante",
           "severely_high": "Muy alto, incluso mortal para enfermedades relacionadas con el asma"
-        }
+        },
+        "name": "Percepción del punto de rocío"
       },
       "humidex_perception": {
         "state": {

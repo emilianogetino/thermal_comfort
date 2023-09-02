@@ -140,6 +140,9 @@
       },
       "moist_air_enthalpy": {
         "name": "Entalpía del aire húmedo"
+      },
+      "dew_point": {
+        "name": "Punto de rocío"
       }
     }
   }

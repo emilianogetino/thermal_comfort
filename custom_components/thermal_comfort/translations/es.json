@@ -124,6 +124,9 @@
           "everyone": "Todos sienten malestar significativo",
           "dangerous": "Peligro, malestar muy fuerte que puede provocar golpes de calor"
         }
+      },
+      "absolute_humidity": {
+        "name": "Humedad absoluta"
       }
     }
   }

@@ -146,6 +146,9 @@
       },
       "heat_index": {
         "name": "Índice de calor"
+      },
+      "humidex": {
+        "name": "Humidex"
       }
     }
   }

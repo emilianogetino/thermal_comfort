@@ -83,7 +83,8 @@
           "discomfort": "Incómodo",
           "significant_discomfort": "Bastante incómodo",
           "extreme_discomfort": "Muy incómodo"
-        }
+        },
+        "name": "Percepción de tensión relativa"
       },
       "summer_scharlau_perception": {
         "state": {
@@ -92,7 +93,8 @@
           "slightly_uncomfortable": "Un poco incómodo",
           "moderatly_uncomfortable": "Bastante incómodo",
           "highly_uncomfortable": "Muy incómodo"
-        }
+        },
+        "name": "Percepción de verano Scharlau"
       },
       "winter_scharlau_perception": {
         "state": {
@@ -101,7 +103,8 @@
           "slightly_uncomfortable": "Un poco incómodo",
           "moderatly_uncomfortable": "Bastante incómodo",
           "highly_uncomfortable": "Muy incómodo"
-        }
+        },
+        "name": "Percepción de Scharlau de invierno"
       },
       "summer_simmer_perception": {
         "state": {
@@ -114,7 +117,8 @@
           "danger_of_heatstroke": "Riesgo de golpe de calor",
           "extreme_danger_of_heatstroke": "Riesgo extremo de golpe de calor",
           "circulatory_collapse_imminent": "Colapso circulatorio inminente"
-        }
+        },
+        "name": "Percepción Summer simmer"
       },
       "thoms_discomfort_perception": {
         "state": {
@@ -124,13 +128,17 @@
           "most": "La mayoría de personas sienten malestar y deterioro de las condiciones psicofísicas",
           "everyone": "Todos sienten malestar significativo",
           "dangerous": "Peligro, malestar muy fuerte que puede provocar golpes de calor"
-        }
+        },
+        "name": "Percepción de malestar de Thoms"
       },
       "absolute_humidity": {
         "name": "Humedad absoluta"
       },
       "frost_point": {
         "name": "Punto de escarcha"
+      },
+      "moist_air_enthalpy": {
+        "name": "Entalpía del aire húmedo"
       }
     }
   }

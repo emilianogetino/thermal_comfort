@@ -143,6 +143,9 @@
       },
       "dew_point": {
         "name": "Punto de rocío"
+      },
+      "heat_index": {
+        "name": "Índice de calor"
       }
     }
   }
